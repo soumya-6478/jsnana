@@ -22,7 +22,7 @@ app.get('/profile-picture', function (req, res) {
 
 // use when starting application locally
 
-// what is merge conflicts?
+
 
 
 
