@@ -21,7 +21,7 @@ app.get('/profile-picture', function (req, res) {
 });
 
 // use when starting application locally
-// added for testing blabla again
+// what is merge conflicts?
 let mongoUrlLocal = "mongodb://admin:password@localhost:27017";
 
 // use when starting application as docker container
