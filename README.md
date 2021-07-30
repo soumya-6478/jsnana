@@ -9,7 +9,7 @@ All components are docker-based
 
 ### With Docker
 
-#### To start the application
+#### To start the application steps
 
 Step 1: Create docker network
 
