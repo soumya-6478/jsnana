@@ -1,6 +1,12 @@
 ## demo app - developing with Docker
 
+<<<<<<< HEAD
+lines added for test blabla
+
+This demo app shows a simple user profile app set up using 
+=======
 This demo app shows a simple user profile app set up with all dependancies using 
+>>>>>>> master
 - index.html with pure js and css styles
 - nodejs backend with express module
 - mongodb for data storage
